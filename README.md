@@ -31,4 +31,4 @@ Main Files :
 - Python Notebook : Spatial Daylight Autonomy Analysis Through Machine Learning.ipynb
 - Pdf File : Machine Learning Framework Interpetation.pdf
 
-Google Drive Gallery : https://drive.google.com/drive/folders/1Ne8mHUbqkIMuBNMySS5owJxPSipzNIeo?usp=sharing
+Google Drive Gallery : https://drive.google.com/drive/folders/13UExOc9GYntvyz468CegUqaNWJy75sS9?usp=sharing
